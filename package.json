@@ -1,0 +1,28 @@
+{
+  "name": "jenkin",
+  "version": "1.0.0",
+  "description": "\"# jenkin-github\"",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teera04164/jenkin-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teera04164/jenkin-github/issues"
+  },
+  "homepage": "https://github.com/teera04164/jenkin-github#readme"
+}
